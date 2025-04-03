@@ -1,7 +1,7 @@
 # Employee Management library (c++)
 This is a simple Employee Management System developed in C++ that allows users to manage employee records. The system provides various functionalities such as adding, modifying, deleting, and searching employee details. It is designed to store employee information such as name, employee ID, contact number, department, and position.
 
-# Features
+## Features
 - Add Employee: Allows users to add a new employee by entering the employee's details such as name, employee ID, contact number, department, and position.
 
 - Modify Employee Details: Users can modify the details of an existing employee by entering the employee ID.
@@ -14,7 +14,7 @@ This is a simple Employee Management System developed in C++ that allows users t
 
 - About Us: Provides details about the system and includes a link to the project's GitHub page.
 
-# Key Concepts Used
+## Key Concepts Used
 1. Functions
 - Functions break down tasks into manageable blocks. Each action (adding, modifying, deleting, etc.) is handled by a separate function, making the code more organized and reusable.
 
@@ -40,7 +40,7 @@ This is a simple Employee Management System developed in C++ that allows users t
 
 - C++ string type is used to manage text inputs (like employee names or positions), with getline() used for multi-word inputs.
 
-# Code Structure
+## Code Structure
 
     Employee Structure: Represents employee details like name, ID, contact number, department, and position.
 
