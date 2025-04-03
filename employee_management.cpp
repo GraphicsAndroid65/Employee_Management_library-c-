@@ -169,7 +169,7 @@ void sortEmployees() {
 void aboutUs() {
     cout << "\nAbout Us:\n";
     cout << "This is an Office Employee Management System.\n";
-    cout << "Made by Mangesh Choudhary & Sumit Kumar";
+    cout << "Made by Mangesh Choudhary & Sumit Kumar.\n";
     cout << "For more information, visit our GitHub page: ";
     cout << "https://github.com/GraphicsAndroid65/Employee_Management_library-c-";
 }
