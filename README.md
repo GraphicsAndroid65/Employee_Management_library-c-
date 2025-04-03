@@ -82,4 +82,4 @@ For questions or feedback, reach out at GraphicsAnd65@gmail.com
 
 ## Acknowledgments
 
-We would like to thank our college and instructor for guiding us through the Web Technology subject and giving us the opportunity to learn by creating this project.
+We would like to thank our college and instructor for guiding us through the C++ & Data Structure subject and giving us the opportunity to learn by creating this project.
